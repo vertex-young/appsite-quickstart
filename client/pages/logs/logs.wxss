@@ -1,0 +1,11 @@
+/* line 1, ../../../../sass/pages/logs/logs.scss */
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+
+/* line 6, ../../../../sass/pages/logs/logs.scss */
+.log-item {
+  margin: 10rpx;
+}
