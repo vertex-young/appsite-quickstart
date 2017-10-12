@@ -59,3 +59,9 @@ typings/
 
 # macos system file
 .DS_Store
+<<<<<<< HEAD
+=======
+
+#server node modules
+server/node_modules/
+>>>>>>> f3e89c6276fad69f3eeeca8c58d9c2faaa7729e9
