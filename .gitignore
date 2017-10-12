@@ -58,3 +58,4 @@ typings/
 .env
 
 # macos system file
+.DS_Store
