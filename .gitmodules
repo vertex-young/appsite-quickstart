@@ -1,0 +1,3 @@
+[submodule "client/vendor"]
+	path = client/vendor
+	url = https://github.com/vertex-young/appsite-client-sdk.git
