@@ -4,5 +4,7 @@
 	"setting": {
 		"urlCheck": false,
 		"postcss": false
-	}
+	},
+	"appid": "",
+	"projectname": "AppSite"
 }
