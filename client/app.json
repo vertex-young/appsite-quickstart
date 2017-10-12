@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "vendor/appsite-client-sdk/pages/opensetting/opensetting"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#3298e7",
+    "navigationBarTitleText": "AppSite",
+    "navigationBarTextStyle":"white"
+  }
+}
